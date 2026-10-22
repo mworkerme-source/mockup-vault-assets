@@ -1,0 +1,527 @@
+{
+ "version": 2,
+ "minShell": 2,
+ "builtAt": "2026-10-22T15:30:18.631Z",
+ "files": [
+  {
+   "path": "app/cropper.html.dat",
+   "hash": "8d6a85f117d160429e8bc5fb2f043968c08ef4f6a6126dd8d839d7b475107de9",
+   "size": 5828
+  },
+  {
+   "path": "app/cropper.js.dat",
+   "hash": "a63dcb93b8f0f1ed3c7a181a7aa55ab6356536152b3e3af4c7c8d34758de695c",
+   "size": 12060
+  },
+  {
+   "path": "app/popup.html.dat",
+   "hash": "52cc8bfd33f9b74ff0fbc89398288c327e0e1ef43c626c023980081ed762581a",
+   "size": 11657
+  },
+  {
+   "path": "app/popup.js.dat",
+   "hash": "4276d9157aadef92e5519987fd37b2e3a7b7ce864d7917409dacd848133f9219",
+   "size": 38243
+  },
+  {
+   "path": "app/settings.html.dat",
+   "hash": "a1d8ceacd3f0dc2a94555e3462d7739880b9e8da1d08985da04c9f7691e5ae56",
+   "size": 26016
+  },
+  {
+   "path": "app/settings.js.dat",
+   "hash": "dbab0243e365806e6307f5e070cbc1392e954a30444bba008b7e360b3ab7a43c",
+   "size": 23756
+  },
+  {
+   "path": "vault_color/0.dat",
+   "hash": "e24f1640d9fb8935f9236f892a6bd62e5345578d7ee86ee64019c9289964864c",
+   "size": 771975
+  },
+  {
+   "path": "vault_color/1.dat",
+   "hash": "c19386692ae1c08b4852ba60ee5557ba00d67d49361badf1fc0aea723f4196ea",
+   "size": 1810754
+  },
+  {
+   "path": "vault_color/10.dat",
+   "hash": "61f54d72f36b8d8f11b77b20385af7192d4486131bea30a07914901fd3324f0f",
+   "size": 899538
+  },
+  {
+   "path": "vault_color/11.dat",
+   "hash": "4e7700924ab4257b6591679f8acaf61930ddee0270158229e693fe4e34234467",
+   "size": 1087805
+  },
+  {
+   "path": "vault_color/12.dat",
+   "hash": "e27a7a4303c828dc46c81f20a5cfed739bbb15b94fa6bc4f8dfb573d6a51765a",
+   "size": 632843
+  },
+  {
+   "path": "vault_color/13.dat",
+   "hash": "9109ae2e350ef7e1436c0c9b2bd59831e4edc457c54068aa88893d13c0a1e349",
+   "size": 2295778
+  },
+  {
+   "path": "vault_color/14.dat",
+   "hash": "527be21dd6b4477839df1ae27def38d1fd2326e2ea273a336aab572c54524683",
+   "size": 1558148
+  },
+  {
+   "path": "vault_color/15.dat",
+   "hash": "09f83342e0c38b2f0522073ec0e2c3a952d42edd25d69bdddfe668c3aa015aa7",
+   "size": 813447
+  },
+  {
+   "path": "vault_color/16.dat",
+   "hash": "f1388fcd14febcf8ec47392c5f5d787ca3de105aaa4000dfce649df7e6631d04",
+   "size": 672030
+  },
+  {
+   "path": "vault_color/17.dat",
+   "hash": "d89f123031821c7215600cb93166fe0cdaf2a188d87ca62c946888a7fbf0efa4",
+   "size": 524355
+  },
+  {
+   "path": "vault_color/18.dat",
+   "hash": "a42fd5231351d315cb054dfb08fff1b9d3ecb1ed5fe7f9f6128fabb17dd4c70c",
+   "size": 567348
+  },
+  {
+   "path": "vault_color/19.dat",
+   "hash": "74327c06799f1c46f864bf646824d15f2a8bca62e89ed2109b1765d9ec65bd3e",
+   "size": 772448
+  },
+  {
+   "path": "vault_color/2.dat",
+   "hash": "ec10f2016f03e2b119091b94a9712e606dc1ec205b5f20d6624a501317712900",
+   "size": 2131836
+  },
+  {
+   "path": "vault_color/20.dat",
+   "hash": "a30cabb5cd6068be031a676763df2c81fefc0ace63ecda500ff0c02432e39420",
+   "size": 1586862
+  },
+  {
+   "path": "vault_color/21.dat",
+   "hash": "4f98beaa3f05083e470464959e0cf3c45f66c05e6b69f7ed440eddc1cd27cad8",
+   "size": 1155519
+  },
+  {
+   "path": "vault_color/22.dat",
+   "hash": "7134a3509a7cb44384e41b2d828cc264081a505b37658da8ea2f6596e67dd2fa",
+   "size": 723573
+  },
+  {
+   "path": "vault_color/23.dat",
+   "hash": "8480e83248791ed9dc2c74354150ba631898aba333da982b89890a9798810282",
+   "size": 1298368
+  },
+  {
+   "path": "vault_color/24.dat",
+   "hash": "6b9feea5a5d1d6c1f3052920ea70b7429475eb2da607d648887d7b907cfbf49d",
+   "size": 427932
+  },
+  {
+   "path": "vault_color/25.dat",
+   "hash": "427b66d28386609ff03c79208d2d44c0c75d557aa90a4509611d6d617f892fd0",
+   "size": 393286
+  },
+  {
+   "path": "vault_color/26.dat",
+   "hash": "223656b36fd7ac8fcb0484e084646cffeab61d923be1aa5ecc9b9b16cfbddaeb",
+   "size": 470562
+  },
+  {
+   "path": "vault_color/27.dat",
+   "hash": "47b0527159e4f07021f81bf88759a7bfcbf28851c287652f6ad56607f78ae7c5",
+   "size": 1552901
+  },
+  {
+   "path": "vault_color/28.dat",
+   "hash": "63dcd735b3828cbcb05c77691442074d5919e1c2076a27df2c63b28dcbce019b",
+   "size": 1397444
+  },
+  {
+   "path": "vault_color/29.dat",
+   "hash": "5b000ce597bc1e2e6c7d6daf1a003456ad8c8557cf694bb73b9e3e7cc4dbc640",
+   "size": 891480
+  },
+  {
+   "path": "vault_color/3.dat",
+   "hash": "2d351eb1571215a81ef2986de878886dda708e19a1959d211d39cf186d2cce05",
+   "size": 2401186
+  },
+  {
+   "path": "vault_color/30.dat",
+   "hash": "5e79d73311aa0862838c10ed23de6bbd3fd3d63fcd38c887f77271a3228e8cb4",
+   "size": 1391771
+  },
+  {
+   "path": "vault_color/31.dat",
+   "hash": "ef4cc61c134969357d6e05e9d86d564704b8bca1dc71098c3a1b997b8e5d9168",
+   "size": 1753295
+  },
+  {
+   "path": "vault_color/32.dat",
+   "hash": "71d43ae4842686b8f7184f29cbbf63a3ed34a4c36f9bd92604611acad240d93d",
+   "size": 848331
+  },
+  {
+   "path": "vault_color/33.dat",
+   "hash": "88a80a33c0baf91772b5248db4132baeb87ad6a8fb66bcde391ce81eb2b091e6",
+   "size": 1792710
+  },
+  {
+   "path": "vault_color/34.dat",
+   "hash": "b81fb93f6a6076608ed10fa3d70ed8d799d8a8813dabbe07d7f1be5a5e3e4226",
+   "size": 915281
+  },
+  {
+   "path": "vault_color/35.dat",
+   "hash": "2088cb47d4e0eefd34bce1aefea8ef1699e9e1bdd594e16cc56559ed7a06b6d4",
+   "size": 924155
+  },
+  {
+   "path": "vault_color/36.dat",
+   "hash": "1cf34df238da4e8057b92b0e369c6091bf42adbe287a3441bc7453737c2a8d09",
+   "size": 939790
+  },
+  {
+   "path": "vault_color/37.dat",
+   "hash": "83664ecea032772bff8df8f9304994d880b3ac7e824c8686703fef9b882058d9",
+   "size": 746674
+  },
+  {
+   "path": "vault_color/38.dat",
+   "hash": "029cc12762fa7ce3e30e4045f4921de6d4999532c7a26a18d7f0673c8629e0ce",
+   "size": 674329
+  },
+  {
+   "path": "vault_color/39.dat",
+   "hash": "f233c60bfa7b53d5f8c22c5119fdcc802cc1dbbc2bc7b79187a5d0a09533fac6",
+   "size": 1052722
+  },
+  {
+   "path": "vault_color/4.dat",
+   "hash": "b1b5cd6842589ff8be5135d0afd4264b3f8fbe2d4fd6bb29aef43b34290e88c9",
+   "size": 1440047
+  },
+  {
+   "path": "vault_color/40.dat",
+   "hash": "d65c54980255f9bada88c724c866d1b3cca958de68295d2f6c69808ffb493c96",
+   "size": 701775
+  },
+  {
+   "path": "vault_color/41.dat",
+   "hash": "b0a8d96c167f85b2389cf377eced1ef51c1a68966a6420c602401729d2f01afc",
+   "size": 837108
+  },
+  {
+   "path": "vault_color/5.dat",
+   "hash": "22110979f14cfba7f2812bd1f231fcb42185369ca831b9e85918f613092e7e6e",
+   "size": 1132339
+  },
+  {
+   "path": "vault_color/6.dat",
+   "hash": "ad89f937481c0f689cdb524e8c8af580c64bdd0772d737186a9a1d15d9e702d4",
+   "size": 1072180
+  },
+  {
+   "path": "vault_color/7.dat",
+   "hash": "e0f89b99551269e849092ad7d9bafaca0b4ae73be78937f0801ba5835aeeda0b",
+   "size": 1367033
+  },
+  {
+   "path": "vault_color/8.dat",
+   "hash": "d0a0b3c5bdf90989ade58e2d389f73236aebb9b62fac7400523db7e23cf2c07d",
+   "size": 721003
+  },
+  {
+   "path": "vault_color/9.dat",
+   "hash": "33deae39b02463ac4ba5f7728985e1094ca7522fcd9b5d0f46e9e574d37d15ec",
+   "size": 828538
+  },
+  {
+   "path": "vault_color/composition.dat",
+   "hash": "3b789ef6590398652c86fa2a23ce6a282d930f507a926df460792b89e38cd571",
+   "size": 86857
+  },
+  {
+   "path": "vault_color/composition_2cam.dat",
+   "hash": "a3ed3e65e4a0d04b30a62d776174a76b782d6d3022181ef676bd7e00558cc3b7",
+   "size": 1021721
+  },
+  {
+   "path": "vault_color/design_1.dat",
+   "hash": "978fadf61ad9b2bbbb404ae0778613fd5620b3d99e160308217a19acf5989bd0",
+   "size": 585756
+  },
+  {
+   "path": "vault_color/design_2.dat",
+   "hash": "9acfa2a41d55c9d607c8e19ef0d1c33ceba1958e91708288aac0563fda111358",
+   "size": 517550
+  },
+  {
+   "path": "vault_color/design_3.dat",
+   "hash": "43b9e6c725374736544a45d53b8ce64b1127398c03dc2e14e7b240cf845aa34d",
+   "size": 635419
+  },
+  {
+   "path": "vault_color/design_4.dat",
+   "hash": "39dbc2f95222b9f3c12f499a1d782732b79fa36dd2890655c0de32ff8371c604",
+   "size": 583892
+  },
+  {
+   "path": "vault_color/design_5.dat",
+   "hash": "cc57151e5e508daf57dc0bea84d5f4b3f19b738e4ac3aa40873b5779b03143bb",
+   "size": 510196
+  },
+  {
+   "path": "vault_white/0.dat",
+   "hash": "7488e8b2d04090202642b78716a46a8233d4b6345250f14aaf9738f9d500fdfc",
+   "size": 768476
+  },
+  {
+   "path": "vault_white/1.dat",
+   "hash": "6f71006d34a2f3337c6a0ef6d612c826901bffcf756e5780a73751d7cd9d7581",
+   "size": 1800590
+  },
+  {
+   "path": "vault_white/10.dat",
+   "hash": "b0730f15d6e94369148579e8dabb39a369cf7226124676b7dad107bca4d29e00",
+   "size": 885201
+  },
+  {
+   "path": "vault_white/11.dat",
+   "hash": "0b2b7ea3d8a72750c27a6e4deeef00ddae2a804bebed1b073b57b264fe69178b",
+   "size": 1079404
+  },
+  {
+   "path": "vault_white/12.dat",
+   "hash": "1901e270ebdcd015b8ca695c35f27f12cddbb30676d08f9189b53d9a72a0744d",
+   "size": 613629
+  },
+  {
+   "path": "vault_white/13.dat",
+   "hash": "2b1d78588b8125f47c91e50f247c6c069cb4096f94b3089413e9437977c32ac9",
+   "size": 1290595
+  },
+  {
+   "path": "vault_white/14.dat",
+   "hash": "34e19f45eff2449dbdb94c055db7adc266a3cdec9430b1ed039d111998729226",
+   "size": 2281854
+  },
+  {
+   "path": "vault_white/15.dat",
+   "hash": "de9ba6259e3b0917ab30acc74d65e391a78262ea38318a8f7c4523877fcc09d6",
+   "size": 704323
+  },
+  {
+   "path": "vault_white/16.dat",
+   "hash": "f0854eea2aab7ba682546bddc594ee4ef2447bf7ab69ba3952d1cca45f804a05",
+   "size": 1555586
+  },
+  {
+   "path": "vault_white/17.dat",
+   "hash": "bdee002f861138a8c00932fe908083a5344a3b8fe8004a24a45314872aa23ae9",
+   "size": 1146884
+  },
+  {
+   "path": "vault_white/18.dat",
+   "hash": "f86db9557e42392006169a2d4e4623e9c5f14ed06d836ff73ee0b80492351d40",
+   "size": 802850
+  },
+  {
+   "path": "vault_white/19.dat",
+   "hash": "84bbe4aa71a8738b7356041c842a8ef6f08a50efb689e6d096c572143941e783",
+   "size": 1580374
+  },
+  {
+   "path": "vault_white/2.dat",
+   "hash": "6cfa1f5ce4ca99a6694de8425db6e9d9021293eff3753e217724f3f03bfb15b7",
+   "size": 2111227
+  },
+  {
+   "path": "vault_white/20.dat",
+   "hash": "2c74a99f0cd5c9be2510c1a0a4973173f215009d3510ae0fe7ba0746bcb49560",
+   "size": 664377
+  },
+  {
+   "path": "vault_white/21.dat",
+   "hash": "a0e14ff8058db1910c668ffef03832408ffc13178e8b277b91e0acbb229e34ad",
+   "size": 770838
+  },
+  {
+   "path": "vault_white/22.dat",
+   "hash": "00fb6cf408d4aa6388118aa8600646c08ebf075cc196373c16256a5069541861",
+   "size": 493968
+  },
+  {
+   "path": "vault_white/23.dat",
+   "hash": "93674a0cb09266ae03817d14bea3becca56888c9caea770e45d42d363c61be79",
+   "size": 554607
+  },
+  {
+   "path": "vault_white/24.dat",
+   "hash": "5852da20f1ac951f0a132c8830c12bf38b40750a1f6ee9a547ad5059f7c49329",
+   "size": 890899
+  },
+  {
+   "path": "vault_white/25.dat",
+   "hash": "20aafad998d8364a59b4218d9bc1621ba6b73c8310b7f39487e1efffa1483df0",
+   "size": 1391520
+  },
+  {
+   "path": "vault_white/26.dat",
+   "hash": "154799c937d5b3a5d8ca63b3375c79aee43794800b0544837e92a7a605f97558",
+   "size": 1530980
+  },
+  {
+   "path": "vault_white/27.dat",
+   "hash": "1d3007c8c07ce91c2230d343dfa1b5caa3934ca2b28cd0560255132654e7bbc5",
+   "size": 464825
+  },
+  {
+   "path": "vault_white/28.dat",
+   "hash": "4022360e0c014765cbb8ca6be3c61a66fe0a5defc8f5d3e5835f328011d9219c",
+   "size": 393826
+  },
+  {
+   "path": "vault_white/29.dat",
+   "hash": "85132dc95c6ed4d9b9b455d91709fa281fa9a4e6501f72b2dbaf4731bdb4cd5c",
+   "size": 427530
+  },
+  {
+   "path": "vault_white/3.dat",
+   "hash": "04e81f8552ec8726e7f39ae20ea3fc2c0cc77ac3a209a93feac53b8c4695c618",
+   "size": 2396007
+  },
+  {
+   "path": "vault_white/30.dat",
+   "hash": "9b19230314607c48935e9ac98b002d06f7b2a09e7c472f398e2e5b8792287c22",
+   "size": 922515
+  },
+  {
+   "path": "vault_white/31.dat",
+   "hash": "6ff589547d1198fd33ca96638e2fbda47813ba8123b158d09762d3e0c509b480",
+   "size": 911533
+  },
+  {
+   "path": "vault_white/32.dat",
+   "hash": "1cd116f8cdc280ac334fad52e963f400777318653020ccaf645bfa458ec85361",
+   "size": 1781261
+  },
+  {
+   "path": "vault_white/33.dat",
+   "hash": "48df53fefdcb9b28110f73f776472d844674bbfb18e045614d1bc32e05f10f9f",
+   "size": 837654
+  },
+  {
+   "path": "vault_white/34.dat",
+   "hash": "8c2a4d8d01c8edcf7407a1f219a2e3a9d33cbbeb6951453c850da28fa62fec82",
+   "size": 1746672
+  },
+  {
+   "path": "vault_white/35.dat",
+   "hash": "53327bcf5d729681d5a748938f53392c4d8d34933596cdff58cece8323dbcc0e",
+   "size": 1387244
+  },
+  {
+   "path": "vault_white/36.dat",
+   "hash": "59dd6524cc331942f3ff0a21a1d0eeac51ccf55e22cd2656787de48fe23f0919",
+   "size": 833066
+  },
+  {
+   "path": "vault_white/37.dat",
+   "hash": "8059e53f98179744ca6f186683bc3c7215204152808d70f874f20f85f80d5b5c",
+   "size": 693672
+  },
+  {
+   "path": "vault_white/38.dat",
+   "hash": "8345893a43c7ab9c7725da631ae44ec4ce2f1388a8a653265950eb121dc752ad",
+   "size": 1050229
+  },
+  {
+   "path": "vault_white/39.dat",
+   "hash": "2bf10921dabeae39d8d403ac16e98ae166590b0e0c8114eca504988890dd49de",
+   "size": 669050
+  },
+  {
+   "path": "vault_white/4.dat",
+   "hash": "0bf0939f0305e1113d1faebfdf0a97d44490c9b69a9a0b8f45e635ea37b9215a",
+   "size": 1438223
+  },
+  {
+   "path": "vault_white/40.dat",
+   "hash": "2afab5af80a6d1e2f1bc96b63ab5fcc8434d4737e6b904ee0b114f68a09488f1",
+   "size": 735784
+  },
+  {
+   "path": "vault_white/41.dat",
+   "hash": "4486439369caf514a01117012bb5671af40e8a3ce3315ae3639c1fcb3c2583fc",
+   "size": 935595
+  },
+  {
+   "path": "vault_white/5.dat",
+   "hash": "f4956660993cadd981333b3884c3cb9e32e920cf37cdc241a3afc924a64dadb7",
+   "size": 1123212
+  },
+  {
+   "path": "vault_white/6.dat",
+   "hash": "f53498e3ef34595fbf97a2dcd0bd91a8d08d370a641f60531cef3d37680b9465",
+   "size": 1060902
+  },
+  {
+   "path": "vault_white/7.dat",
+   "hash": "3a00cc23fc967ef1851de4dbf5496a9a282f9b473c274f7c4d698b0136121239",
+   "size": 1329838
+  },
+  {
+   "path": "vault_white/8.dat",
+   "hash": "e45bce34603063f7faacd3e9cd2031c2a83f425a2ee64e05ba6864120c3aae0a",
+   "size": 714341
+  },
+  {
+   "path": "vault_white/9.dat",
+   "hash": "dc61131e42a8b55a7217cfae16348975d16a8f084aa7b8f6f5c36be43dd9c3d8",
+   "size": 829173
+  },
+  {
+   "path": "vault_white/composition.dat",
+   "hash": "aac65b1499b1b48686662653ec7979147409bc65cc4796f657dd456afb33c56c",
+   "size": 81474
+  },
+  {
+   "path": "vault_white/composition_2cam.dat",
+   "hash": "cd3c3b87177a6f07e112c9f7b1da2d2f596ef978d0511316f7a0146b43aff741",
+   "size": 209672
+  },
+  {
+   "path": "vault_white/design_1.dat",
+   "hash": "8edac89945a2456efd0bdcdbf0bad85c130e98c376091393e40e0ae316cd6a1f",
+   "size": 472961
+  },
+  {
+   "path": "vault_white/design_2.dat",
+   "hash": "79101f1b19f5076e235f1fd5965fce272116a60478cef9a993abb974d4a1e937",
+   "size": 474001
+  },
+  {
+   "path": "vault_white/design_3.dat",
+   "hash": "872723c9c3a6f91fe34b4b9c78fbfe66347b4a63ae0206e5a52155a16a6b4a8f",
+   "size": 474201
+  },
+  {
+   "path": "vault_white/design_4.dat",
+   "hash": "e091823375c13c1e57dd8f2ae225722d6c3291f5aca294e096de85f2d6a93ee0",
+   "size": 473590
+  },
+  {
+   "path": "vault_white/design_5.dat",
+   "hash": "9deeec8e7ca2fa58fa9a7238290a0b4bc5d70f54c0f63535e11752a3ecf0bcb7",
+   "size": 474129
+  }
+ ]
+}
