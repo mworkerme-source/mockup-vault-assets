@@ -1,36 +1,36 @@
 {
- "version": 10,
+ "version": 11,
  "minShell": 3,
- "builtAt": "2026-10-31T10:57:53.695Z",
+ "builtAt": "2026-10-31T16:27:09.082Z",
  "files": [
   {
    "path": "app/cropper.html.dat",
-   "hash": "d3f07f3adf4094b496e6dd224979f7d3408149694cba7acbebbae456dd983764",
+   "hash": "95f14aed0130e29713a44507c2e5e5881e0fad2609f90369c304f525cdd62ee1",
    "size": 6165
   },
   {
    "path": "app/cropper.js.dat",
-   "hash": "7f733b7903702652e62ac88b866741e7ce0ca780811848a64e95c6cfed6be271",
+   "hash": "18d7b11685c93d4934f2de19e658283a23e54797916557bbd086e0f8bf6ac475",
    "size": 15593
   },
   {
    "path": "app/popup.html.dat",
-   "hash": "2c19b11d531202db970b65d11737944d99e4a50151677410ed29510e7c7f20db",
+   "hash": "8d19a2f88dd796868bee097244d6e10d823087df4ad4b93225b0c9ce98f6425e",
    "size": 12430
   },
   {
    "path": "app/popup.js.dat",
-   "hash": "1ea8a13411660a97e552a4faf09478d65a7e41c09f9f1bb2779b2ff42d790cba",
-   "size": 42017
+   "hash": "0b89d39a94a49a8a216195195d471c9baf6024c26f159c33315298a565d39f4e",
+   "size": 42169
   },
   {
    "path": "app/settings.html.dat",
-   "hash": "a2a40ad4a2f095b3d05b510fc3ae4affc8f57d5e790709a2dd57b658e4704bf3",
+   "hash": "745b677906a76fe045b3e09fc052a3e896399f0652b2ee0829e59482dd86004f",
    "size": 32385
   },
   {
    "path": "app/settings.js.dat",
-   "hash": "bc3fad71af8d0e0fdb82e7a70a633738fbd0d3aada0e17f2692154454325f826",
+   "hash": "5d3baecc09c8c145f8525803622a71457bf6c209d64e4af39eec280cb1d3cdeb",
    "size": 28616
   },
   {
